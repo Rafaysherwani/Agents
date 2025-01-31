@@ -1,7 +1,4 @@
-.venv/Include/site/python3.10/greenlet/greenlet.h
-.venv/Lib/site-packages/__pycache__/jsonpatch.cpython-310.pyc
-.venv/Lib/site-packages/__pycache__/jsonpointer.cpython-310.pyc
-.venv/Lib/site-packages/__pycache__/typing_extensions.cpython-310.pyc
-/.venv
+.venv/
+
 .env
-Lchainagents.py
+
