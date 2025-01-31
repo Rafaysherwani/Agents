@@ -1,4 +1,4 @@
-# 📘 Jupyter Notebooks: Lchain, Lgraph & Conditional Edges
+# 📘 Lchain, Lgraph Agents & Conditional Edges
 
 ## 📌 Overview
 This repository contains Jupyter notebooks related to **Lchain, Lgraph, and Agents**, exploring conditional edges and their interactions.
